@@ -12,8 +12,6 @@ Telegram-бот-наставник для подростков и молодеж
 
 
 ## 2. Установка
-python -m venv .venv
-.venv\Scripts\activate # Windows
-pip install -r requirements.txt
-### 2.1. Клонирование репозитория
-
+- python -m venv .venv
+- .venv\Scripts\activate # Windows
+- pip install -r requirements.txt
